@@ -2,7 +2,7 @@
 
 - What is DNA replication's error rate?
 - How did the Meselson-Stahl experiment verify the semiconservative model of DNA replication?
-- List all the classes of enzymes involved in DNA replication.
+- List all the classes of proteins involved in DNA replication.
   - Helicases
   - Single-strand binding proteins
   - Topoisomerase
