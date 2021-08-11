@@ -8,6 +8,7 @@
   - Topoisomerase
   - Primase
   - DNA polymerase
+  - Ligase
 - What is the purpose of the released pyrophosphate?
 - What direction does DNA elongate?
   - 5' to 3' on the synthesized strand.
