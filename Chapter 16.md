@@ -19,3 +19,8 @@
   - Forms the phosphodiester bond between two adjacent nucleotides (ligates nucleotides together).
 - What does a nuclease do? What is an endonuclease? What is an exonuclease?
   - A nuclease cuts DNA: endonuclease cuts DNA in the middle of the strand, while exonucleases cut DNA at the end of the strand.
+- What are the two kinds of DNA repair discussed in this chapter?
+  - **mismatch repair.** repair during the replication process
+  - **nucleotide excision repair.** repair after damage has occurred
+- What happens when DNA repair mechanisms fail?
+  - Diseases develop, often as forms of cancer.
