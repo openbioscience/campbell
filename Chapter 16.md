@@ -23,4 +23,10 @@
   - **mismatch repair.** repair during the replication process
   - **nucleotide excision repair.** repair after damage has occurred
 - What happens when DNA repair mechanisms fail?
-  - Diseases develop, often as forms of cancer.
+  - Diseases develop, most common of which is cancer.
+- What would happen if DNA replication and repair was perfect (no errors)?
+  - No mutations would be possible.
+- What is the purpose of telomeres?
+  - Telomeres account for the sections of DNA that cannot be replicated in a linear chromosome.
+- How do cancer cells abuse telomerase?
+  - Telomerase extends telomeres, which enables a cell to divide endlessly as the chromosome will never shorten enough to be considered damaged by the internal cell machinery.
