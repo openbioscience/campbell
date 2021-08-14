@@ -30,3 +30,12 @@
   - Telomeres account for the sections of DNA that cannot be replicated in a linear chromosome.
 - How do cancer cells abuse telomerase?
   - Telomerase extends telomeres, which enables a cell to divide endlessly as the chromosome will never shorten enough to be considered damaged by the internal cell machinery.
+- What is a nucleosome?
+  - The nucleosome is the basic unit of DNA packaging.
+- What are histones?
+  - Histones are the proteins that DNA wraps around to form chromatin.
+- What are the two states of chromatin?
+  - Heterochromatin: condensed
+  - Euchromatin: uncondensed
+- What is significant about the organization of chromosomes during interphase?
+  - They are located in particular regions of the nucleus, not randomly dispersed.
