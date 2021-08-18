@@ -6,3 +6,8 @@
   - The function of genes is to dictate the production of specific enzymes.
   - In other words, genes control phenotype through proteins.
 - What is minimal medium?
+- Where does transcription take place in a eukaryotic cell?
+- What is pre-mRNA?
+- What is the template strand?
+- What is the coding strand?
+- In what direction is mRNA read?
