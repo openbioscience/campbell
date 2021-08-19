@@ -11,3 +11,6 @@
 - What is the template strand?
 - What is the coding strand?
 - In what direction is mRNA read?
+- Why do some polypeptides not begin with methionine?
+- What is a reading frame?
+  - The triplet groupings of nucleotides that is read by ribosomes during translation.
