@@ -14,3 +14,9 @@
 - Why do some polypeptides not begin with methionine?
 - What is a reading frame?
   - The triplet groupings of nucleotides that is read by ribosomes during translation.
+
+## 17.2, Transcription is the DNA-directed synthesis of RNA
+
+- What is the promoter?
+- What do transcription factors do?
+- How does termination differ between bacteria and eukaryotes?
