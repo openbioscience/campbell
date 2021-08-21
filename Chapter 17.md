@@ -16,7 +16,23 @@
   - The triplet groupings of nucleotides that is read by ribosomes during translation.
 
 ## 17.2, Transcription is the DNA-directed synthesis of RNA
-
 - What is the promoter?
 - What do transcription factors do?
 - How does termination differ between bacteria and eukaryotes?
+
+## 17.3, Eukaryotic cells modify RNA after transcription
+- Where does RNA processing take place?
+  - In the nucleus.
+- What purposes do the 5' cap and 3' poly-A tail serve?
+  - Facilitate export of mature mRNA to the cytoplasm
+  - Protect mRNA from degradation by hydrolytic enzymes
+  - Help ribosome attach to mRNA in the cytoplasm
+- What are UTRs? What is their purpose? Are they part of exons or introns?
+  - Untranslated regions: portions of the mature mRNA that are not translated into protein
+  - They help bind the RNA to ribosomes.
+  - UTRs are part of exons.
+- What are introns? What are exons?
+- Which makes up a greater portion of pre-mRNA transcripts: introns or exons?
+- What are snRNPs? What are snRNAs?
+  - snRNPs are RNA-protein complexes that make up the splicesome.
+  - The RNA in snRNPs are called snRNAs: they help recognize splice sites and catalyze RNA splicing.
