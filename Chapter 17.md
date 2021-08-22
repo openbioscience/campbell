@@ -36,3 +36,8 @@
 - What are snRNPs? What are snRNAs?
   - snRNPs are RNA-protein complexes that make up the splicesome.
   - The RNA in snRNPs are called snRNAs: they help recognize splice sites and catalyze RNA splicing.
+- Why does the existence of ribozymes provide strong evidence for the origin of life as an RNA world?
+- What is alternative RNA splicing?
+- What is a protein domain?
+- How might introns enhance evolution?
+
