@@ -41,3 +41,12 @@
 - What is a protein domain?
 - How might introns enhance evolution?
 
+## 17.4, Translation is the RNA-directed synthesis of a polypeptide
+
+- What is the function of tRNA?
+  - tRNA is the translator that matches a codon with an amino acid.
+- How are charged tRNAs synthesized?
+  - Aminoacyl-tRNA synthetases catalyse two reactions: amino acid reacts with ATP to form 5' aminoacyl adenylate; an uncharged tRNA then reacts with 5' aminoacyl adenylate to take the amino acid and become an aminoacyl-tRNA.
+- What is the shape of tRNA (both flattened and in three dimensions)?
+- What is wobble?
+  - Wobble is the flexible base pairing of the third nucleotide in a codon.
