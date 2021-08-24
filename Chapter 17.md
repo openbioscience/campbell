@@ -50,3 +50,18 @@
 - What is the shape of tRNA (both flattened and in three dimensions)?
 - What is wobble?
   - Wobble is the flexible base pairing of the third nucleotide in a codon.
+- Describe the structure of a ribosome.
+  - 50S subunit
+  - 30S subunit
+  - EPA sites
+- List the players in translation.
+  - Initiation factors
+  - Elongation factors
+  - Ribosome
+    - 50S
+    - 30S
+  - mRNA
+  - tRNA
+  - GTP
+- What are the three steps of elongation?
+- What part of the ribosome is catalyzing the reactions in translation?
