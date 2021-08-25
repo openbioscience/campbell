@@ -65,3 +65,12 @@
   - GTP
 - What are the three steps of elongation?
 - What part of the ribosome is catalyzing the reactions in translation?
+
+- How can translation be parallelized?
+- What are some common post-translational modifications?
+  - Cleaving protein
+  - Glycosylation
+  - Phosphorylation
+- Translation always begins on what kind of ribosome?
+- How are proteins targeted for a particular location in the cell?
+
