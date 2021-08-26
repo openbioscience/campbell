@@ -74,3 +74,7 @@
 - Translation always begins on what kind of ribosome?
 - How are proteins targeted for a particular location in the cell?
 
+## 17.5, Mutations of one or a few nucleotides can affect protein structure and function
+- What is a large-scale mutation compared to a small-scale mutation?
+- What is the difference between missense and nonsense?
+- Why are insertions and deletions typically deleterious?
