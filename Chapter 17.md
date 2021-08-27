@@ -77,3 +77,11 @@
 - What is a large-scale mutation compared to a small-scale mutation?
 - What is the difference between missense and nonsense?
 - Why are insertions and deletions typically deleterious?
+
+## 17.6, While gene expression differs among the domains of life, the concept of a gene is universal
+- What are the different kinds of final gene products?
+  - Proteins
+  - tRNA
+  - rRNA
+  - snRNA
+
