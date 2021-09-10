@@ -16,4 +16,7 @@
 - What is the "opposite" of a corepressor?
 - What is the "opposite" of a repressor?
 - Do inducers and activators interact?
+- Do corepressors and activators interact?
 - Distinguish the operator from the repressor.
+
+## 18.2
