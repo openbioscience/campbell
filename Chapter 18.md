@@ -1,7 +1,6 @@
 # 18. Regulation of Gene Expression
 
 ## 18.1 Bacteria often respond to environmental change by regulating transcription
-
 - Why is gene regulation necessary?
 - What are the two levels of metabolic control?
   - Activity of enzymes
@@ -19,4 +18,17 @@
 - Do corepressors and activators interact?
 - Distinguish the operator from the repressor.
 
-## 18.2
+## 18.2 Eukaryotic gene expression is regulated at many stages
+- What are the two reasons for regulating gene expression?
+  - Respond to signals in environment
+  - Maintain cell specialization in multicellular organisms
+- Why is gene expression often used to refer to regulation of transcription?
+  - Regulation of transcription is a very common way for a wide range of organisms to respond to external signals.
+
+### Regulation of Chromatin Structure
+- What is a nucleosome?
+- What are the three kinds of histone modifications, and what are their effects?
+- What is the difference between histone and DNA modifications?
+
+## 18.3 Noncoding RNAs
+
