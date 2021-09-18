@@ -48,6 +48,16 @@
     - Repressors
 - What is the general structure of a transcription factor?
   - DNA binding domain and an activation (protein-binding) domain.
+- How is it possible that enhancers only bind one or two specific transcription factors, when control element sequences are not unique?
+  - Combinations of control elements in enhancers determine which transcription factor can bind; this leads to an exponential number of options.
+- How do different cell types express different genes?
+  - Different tissues have different activators present, which bind to different enhancers, expressing different genes.
+- What does "coordinately controlled genes" mean?
+  - Genes that work together to perform some function; they need to be controlled together, so that all gene products are present.
+- How are genes coordinately controlled in prokaryotes (i.e. bacteria)?
+  - Operons
+- How are genes coordinately controlled in eukaryotes?
+  - Genes that should work together share the same set of control elements.
 
 ### Mechanisms of Post-Transcriptional Regulation
 
