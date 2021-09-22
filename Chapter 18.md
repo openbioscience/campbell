@@ -61,6 +61,30 @@
 
 ### Mechanisms of Post-Transcriptional Regulation
 
+#### RNA processing
+- What is alternative RNA splicing?
+
+#### mRNA degradation
+- How does the cell control the rate of mRNA degradation?
+  - Nucleotide sequences on the 3'-UTR end of the molecule
+- Why are the globin mRNAs stable, while growth factor mRNAs quickly degrade?
+
+#### Initiation of Translation
+- What is interesting about the fact that both the 5' cap and the poly-A tail are important for ribosome binding?
+  - They are the beginning and the end of the RNA; both ends are checked, not just the front.
+- What are two ways to block initiation of translation?
+  - Binding regulatory proteins to the 5' or 3' end of the mRNA.
+  - Keeping poly-A tails short.
+
+#### Protein processing and degradation
+- What is the proteasome?
+- List three kinds of protein processing.
+  - Cleavage
+  - Phosphate
+  - Sugars
+- How is a protein marked for degradation?
+  - Ubiquitination
+
 ## 18.3 Noncoding RNAs play multiple roles in controlling gene expression
 
 ## 18.4 A program of differential gene expression leads to the different cel types in a multicellular organism
